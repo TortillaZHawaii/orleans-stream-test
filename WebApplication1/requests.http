@@ -1,0 +1,4 @@
+POST http://localhost:5093/stream
+Content-Type: application/json
+
+"Hello, world!"
